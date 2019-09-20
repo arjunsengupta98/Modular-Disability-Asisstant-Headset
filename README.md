@@ -16,3 +16,7 @@ These are certain files that must be present in the project direcory. They inclu
 - Trainner yml
 - Gesture database
 All the files have been included in this repository in various sub-folders
+
+# Summary Presentation
+
+A detailed description of the project is given in the file SummaryPpt.pptx
